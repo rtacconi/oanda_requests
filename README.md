@@ -5,8 +5,8 @@ This Python project is an extract of my algorithmic trading platform, built
 with Python and Oanda as broker. After been annoyed for a long time of the
 poor quality of client libraries for Oanda in Python, I wrote my own.
 
-The library is build without using OOP, but using more functional programming
-paradigms. It has modules and inside the modules it has functions. As HTTP
+The library is built without using OOP, but using a more functional programming
+style. It has modules and inside the modules it has functions. As HTTP
 client it is using the famous
 [requests](https://requests.readthedocs.io/en/master/) library.
 
